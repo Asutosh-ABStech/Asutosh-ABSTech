@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## :kissing_heart: Love to work with python ![python icon](https://media0.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif =100x100)
+## :kissing_heart: Love to work with python <img src="https://media0.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt="It's Python Logo" width="100">
 
 <!--
 **Asutosh-ABStech/Asutosh-ABSTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
