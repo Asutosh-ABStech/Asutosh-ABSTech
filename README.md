@@ -2,6 +2,7 @@
 
 ## :kissing_heart: Love to work with python <img src="https://media0.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt="It's Python Logo" width="40">
 ## :scream: How can I foget about API <img src="https://d540vms5r2s2d.cloudfront.net/mad/uploads/mad_blog_5db041379523b1571832119.gif" alt="It's API" width="300">
+## 👯 I’m looking to collaborate on the projects given
 
 <!--
 **Asutosh-ABStech/Asutosh-ABSTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
