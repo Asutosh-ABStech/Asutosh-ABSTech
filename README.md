@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## :kissing_heart: Love to work with python ![alt text](https://media0.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif)
+## :kissing_heart: Love to work with python ![alt text](https://media0.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif | width=100)
 
 <!--
 **Asutosh-ABStech/Asutosh-ABSTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
